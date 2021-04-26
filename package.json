@@ -1,0 +1,19 @@
+{
+  "name": "hackerrank-repeated-string-javascript",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "RepeatedString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-differently/HackerRank-Repeated-String-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-differently/HackerRank-Repeated-String-JavaScript/issues"
+  },
+  "homepage": "https://github.com/code-differently/HackerRank-Repeated-String-JavaScript#readme"
+}
